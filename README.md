@@ -224,12 +224,12 @@ For detail:
 
 ## IV. Testing and Validation
 
-Simulation code on the github: 
+Simulation and explanation code on the github: 
 
 - Get the temperature and humidity information from DTH11 to ESP32
 - Use the information to turn on or off the pump automatically
 - Display result
-- file code: https://github.com/lylinh/FromSensorToUserProject/blob/main/sketch_apr20a.ino
+- Link file code: https://github.com/lylinh/FromSensorToUserProject/blob/main/sketch_apr20a.ino
 ---
 
 ## V. Conclusion
